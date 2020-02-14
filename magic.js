@@ -1,4 +1,4 @@
-var binomCampaingKey = 'di4x97n9k8518h0k37nf'; 
+var binomCampaingKey = 's15yun0z67b7t9btickt'; 
 /* Key кампании в Binom. Не ID! Узнать key нужной кампании можно в настройках этой кампании. Вот здесь - http://prntscr.com/qua54o  */
 
 /* БОЛЬШЕ НИЧЕГО НЕ МЕНЯТЬ! */
