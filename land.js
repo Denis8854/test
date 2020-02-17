@@ -1,1 +1,2 @@
-var x = 'x';
+var x = 'xxxxxxxxxxxxxxxxx';
+document.write('sadasdasd'+x+'dasasdasdasdasd');
