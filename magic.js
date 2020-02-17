@@ -4,9 +4,7 @@ var preLandingUrl = 'https://serd.site/landing/xhr/mobile_final/latam.php'; /*А
 var moneyPageUrl = 'https://cl.bitcoincircuit.online'; /*Адрес манипейдж, который будет подставлен в ссылки на преленде*/
 var landignLoadingCampaingId = '2dpmfzy61v5pcfgkk3ew'; /*Key кампании в Binom, в которой будут отображатся логи при загрузке преленда девайсом юзера. Служит для отслеживания потери трафика. По умолчанию стоит стандартная кампания GLOBAL Landing Loading, id:167*/
 
-/* 
-БОЛЬШЕ НИЧЕГО НЕ МЕНЯТЬ!
-*/
+/* БОЛЬШЕ НИЧЕГО НЕ МЕНЯТЬ!*/
 
 var preLanding = preLandingUrl + '?mpurl=' + moneyPageUrl + '&githubid=' + gitHubId + '&landingloadingid=' + landignLoadingCampaingId; 
 
