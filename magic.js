@@ -5,7 +5,6 @@ var moneyPageUrl = 'https://cl.bitcoincircuit.online'; /*Адрес манипе
 var landignLoadingCampaingId = '2dpmfzy61v5pcfgkk3ew'; /*Key кампании в Binom, в которой будут отображатся логи при загрузке преленда девайсом юзера. Служит для отслеживания потери трафика. По умолчанию стоит стандартная кампания GLOBAL Landing Loading, id:167*/
 
 /* 
-При необходимости можно заменить код формы/сейфпейдж, который заключен в function addContent (){...}
 БОЛЬШЕ НИЧЕГО НЕ МЕНЯТЬ!
 */
 
