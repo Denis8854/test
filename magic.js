@@ -1,6 +1,6 @@
 var binomCampaingKey = 's15yun0z67b7t9btickt'; /* Key кампании в Binom. Не ID! Узнать key нужной кампании можно в настройках этой кампании. Вот здесь - http://prntscr.com/qua54o  */
 var gitHubId = 'denis8854'; /*ID данного GitHub сайта. Только ID, не вся ссылка!*/
-var landingUrl = 'https://serd.site/moneypage/reduslim_v5/'; /*Адрес преленда, который необходимо подгрузить*/
+var landingUrl = 'https://serd.site/landing/nutra/v5/'; /*Адрес преленда, который необходимо подгрузить*/
 var moneyPageUrl = 'https://cl.bitcoincircuit.online'; /*Адрес манипейдж, который будет подставлен в ссылки на преленде*/
 var landignLoadingCampaingId = '2dpmfzy61v5pcfgkk3ew'; /*Key кампании в Binom, в которой будут отображатся логи при загрузке преленда девайсом юзера. Служит для отслеживания потери трафика. По умолчанию стоит стандартная кампания GLOBAL Landing Loading, id:167*/
 
