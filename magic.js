@@ -1,4 +1,4 @@
-var binomCampaingKey = 'qlxngowo6oug92mcczum'; /*GitHub Test, id:158. Key кампании в Binom. Не ID! Узнать key нужной кампании можно в настройках этой кампании. Вот здесь - http://prntscr.com/qua54o  */
+var binomCampaingKey = 's15yun0z67b7t9btickt'; /*GitHub Test, id:158. Key кампании в Binom. Не ID! Узнать key нужной кампании можно в настройках этой кампании. Вот здесь - http://prntscr.com/qua54o  */
 var landingUrl = 'https://serd.site/landing/nutra/v5/'; /*Адрес преленда, который необходимо подгрузить*/
 
 /* БОЛЬШЕ НИЧЕГО НЕ МЕНЯТЬ!*/
